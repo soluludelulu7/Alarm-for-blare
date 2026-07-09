@@ -3,11 +3,17 @@
 This is an alarm I made for the blare event. I am super excited to recieve my kit and start building.
 
 BOM:
+
 Screen - In the Kit
+
 Switches - In the kit
+
 Esp 32 - In the kit
+
 Jumper Cables - In the kit
+
 Enclosure - Will make using carboard
+
 
 *My time stamps are according to when I took the screenshot
 
