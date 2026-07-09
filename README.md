@@ -23,7 +23,8 @@ Enclosure - Will make using carboard
 
 7:18 p.m. 7/8/2026:
 
-<img width="1270" height="1280" alt="Wiring" src="https://github.com/user-attachments/assets/a2b6079d-19d2-4df6-9e51-a579fdaa37c1" />
+<img width="1280" height="1204" alt="image" src="https://github.com/user-attachments/assets/e04e6cab-a773-49f2-b0a7-1cd47b6e0586" />
+
 
 9:24 p.m. 7/8/2026:
 
