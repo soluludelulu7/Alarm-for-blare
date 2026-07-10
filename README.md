@@ -30,12 +30,16 @@ I spent about forty five minutes on this just understanding how everything gets 
 9:24 p.m. 7/8/2026:
 
 <img width="816" height="442" alt="body" src="https://github.com/user-attachments/assets/65d7dfa9-4420-4f58-abbd-a9004942be34" />
+<img width="1488" height="672" alt="Screenshot 2026-07-10 115707" src="https://github.com/user-attachments/assets/339a8dae-e044-4a83-8d03-47bd980f3868" />
 
-I spent about an hour designing the body of the alarm clock in onshape. When I was designing I figured out that pputting in a display according to my initial sketch would be difficult so I added a cutout so that I can slide the screen in easily.
+
+I spent about an hour designing the body of the alarm clock in onshape. When I was designing I figured out that putting in a display according to my initial sketch would be difficult so I added a cutout so that I can slide the screen in easily.
 
 10:45 p.m. 7/8/2026:
 
 <img width="724" height="320" alt="back" src="https://github.com/user-attachments/assets/a54ba6ec-a8a0-4dd2-bb2c-4327e18a0381" />
+<img width="1294" height="716" alt="image" src="https://github.com/user-attachments/assets/8df3d55d-d443-4ecd-9810-af8707e12e70" />
+
 
 For about one hour I designed the backplate according to the backside of the body. I tried to make them fit as snug as possible and also left a cutout fot the esp32 to get electricity.
 
@@ -43,4 +47,4 @@ For about one hour I designed the backplate according to the backside of the bod
 
 <img width="532" height="550" alt="image" src="https://github.com/user-attachments/assets/56609515-4c24-4f19-8374-6da2f87cd7d2" />
 
-I spent about forty five minutes coding this alarm clock b y adding buttons, buzzer, screen and just overall logic.
+I spent about forty five minutes coding this alarm clock by adding buttons, buzzer, screen and just overall logic. BUttons are used for decrementing, incremeting and stooping the buzzer.
