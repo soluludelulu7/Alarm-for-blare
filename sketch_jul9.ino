@@ -20,6 +20,9 @@ void setup() {
   Serial.begin(115200); 
   tft.init(76, 284);  
   tft.fillScreen(ST77XX_BLACK); // oi screen wake up matey boi
+  pinMode(BUTTON_STOP, INPUT_PULLUP);
+  pinMode(BUTTON_MIN, INPUT_PULLUP);
+  pinMode(BUTTON_HOUR, INPUT_PULLUP);
 }
 
 void loop() {
