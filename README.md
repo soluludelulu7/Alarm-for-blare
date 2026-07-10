@@ -37,8 +37,10 @@ I spent about an hour designing the body of the alarm clock in onshape. When I w
 
 <img width="724" height="320" alt="back" src="https://github.com/user-attachments/assets/a54ba6ec-a8a0-4dd2-bb2c-4327e18a0381" />
 
-For about fifteen minutes I designed the backplate according to the backside of the body. I tried to make them fit as snug as possible and also left a cutout fot the esp32 to get electricity.
+For about one hour I designed the backplate according to the backside of the body. I tried to make them fit as snug as possible and also left a cutout fot the esp32 to get electricity.
 
 12:57 p.m. 7/9/2026
 
-<img width="1726" height="1228" alt="image" src="https://github.com/user-attachments/assets/e55cffc1-4e31-408b-b483-7c049ae4fc41" />
+<img width="532" height="550" alt="image" src="https://github.com/user-attachments/assets/56609515-4c24-4f19-8374-6da2f87cd7d2" />
+
+I spent about forty five minutes coding this alarm clock b y adding buttons, buzzer, screen and just overall logic.
