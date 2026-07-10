@@ -10,7 +10,7 @@
 #define BUTTON_MIN    2
 #define BUTTON_STOP   1  
 #define BUZZER        0
-Adafruit_ST7789 display = Adafruit_ST7789(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_RST); // screen object thingy
+Adafruit_ST7789 tft = Adafruit_ST7789(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_RST); // screen object thingy
 
 int hours = 12; // set it up at exactly noon for it to work
 int minutes = 0;
@@ -18,8 +18,8 @@ bool alarmOn = false; // is alarm going tring tring
 
 void setup() {
   Serial.begin(115200); 
-  display.init(76, 284);  
-  display.fillScreen(ST77XX_BLACK); // oi screen wake up matey boi
+  tft.init(76, 284);  
+  tft.fillScreen(ST77XX_BLACK); // oi screen wake up matey boi
 }
 
 void loop() {
@@ -48,9 +48,9 @@ void loop() {
     }
   }
   isplay.fillScreen(ST77XX_RED); // wanted red font so it looks cool
-  display.setCursor(38, 142); // not sure might be the middle
-  display.setTextSize(5); // text might be a little large can adjust later
-  display.printf(hours, minutes); // show the time on the screen
+  tft.setCursor(38, 142); // not sure might be the middle
+  tft.setTextSize(5); // text might be a little large can adjust later
+  tft.printf(hours, minutes); // show the time on the screen
   delay(60000)
 }
 }
